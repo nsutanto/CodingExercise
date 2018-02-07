@@ -1,2 +1,2 @@
 # CodingExercise
-Coding Exercise
+Coding Exercise per HackerRank
