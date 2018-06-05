@@ -25,6 +25,10 @@ namespace LeetCode
                 }
                 else
                 {
+                    if (dict.ContainsValue(t[i]))
+                    {
+                        return false;
+                    }
                     dict.Add(s[i], t[i]);
                 }
             }
